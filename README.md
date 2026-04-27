@@ -51,3 +51,12 @@ Action: Open the component that lists items (e.g., Home.jsx or ItemList.jsx).
 Action: Inside the loop (usually a .map() function) that renders the items, add a line to display the new field.
 
 Example: <p>Origin: {item.countryOfOrigin}</p>
+
+npm install express mongoose cors dotenv
+npm install nodemon --save-dev
+
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin YOUR_REPO_URL
+git push -u origin main
